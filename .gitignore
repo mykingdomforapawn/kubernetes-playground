@@ -1,0 +1,2 @@
+# Secret files that should never be uploaded
+mongodb/mongo-secret.yaml
